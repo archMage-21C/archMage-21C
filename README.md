@@ -1,8 +1,8 @@
 <div align="center">
 
-┌────────────────────────────────────────────────────────────────────────────┐
+┌────────────────────────────────────────────────────────────────────────┐
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=33FF33&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Booting+Grimoire...;System+check+complete.;Welcome%2C+Fellow+Seeker+of+Knowledge!" alt="Typing SVG" />
-└────────────────────────────────────────────────────────────────────────────┘
+└────────────────────────────────────────────────────────────────────────┘
 
 
 </div>
